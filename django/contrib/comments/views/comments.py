@@ -31,7 +31,7 @@ def post_comment(request, next=None):
     """
     # Fill out some initial data fields from an authenticated user, if present
     data = request.POST.copy()
-    if request.user.is_authenticated():
+    if hasattr(request, 'user') and request.user.is_authenticated():
         if not data.get('name', ''):
             data["name"] = request.user.get_full_name() or request.user.username
         if not data.get('email', ''):
@@ -91,7 +91,7 @@ def post_comment(request, next=None):
     # Otherwise create the comment
     comment = form.get_comment_object()
     comment.ip_address = request.META.get("REMOTE_ADDR", None)
-    if request.user.is_authenticated():
+    if hasattr(request, 'user') and request.user.is_authenticated():
         comment.user = request.user
 
     # Signal that the comment is about to be saved

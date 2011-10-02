@@ -1,0 +1,71 @@
+Index: django/http/__init__.py
+===================================================================
+--- django/http/__init__.py	(Revision 11436)
++++ django/http/__init__.py	(Arbeitskopie)
+@@ -317,7 +317,13 @@
+             yield value
+ 
+     def __setitem__(self, header, value):
+-        header, value = self._convert_to_ascii(header, value)
++        # Conversion to ASCII is done later on using iri_to_uri for a proper
++        # puny-code friendly encoding.
++        #
++        # See: HttpRequest.build_absolute_uri
++        #      fix_location_header
++        if header != 'Location' and isinstance(value, unicode):
++            header, value = self._convert_to_ascii(header, value)
+         self._headers[header.lower()] = (header, value)
+ 
+     def __delitem__(self, header):
+Index: django/utils/encoding.py
+===================================================================
+--- django/utils/encoding.py	(Revision 11436)
++++ django/utils/encoding.py	(Arbeitskopie)
+@@ -1,5 +1,6 @@
+ import types
+ import urllib
++import urlparse
+ import locale
+ import datetime
+ import codecs
+@@ -136,9 +137,39 @@
+     # section 3.1 of RFC 3987.
+     if iri is None:
+         return iri
+-    return urllib.quote(smart_str(iri), safe='/#%[]=:;$&()+,!?*')
+ 
++    if isinstance(iri, unicode):
++        parts = urlparse.urlsplit(iri)
+ 
++        if parts.hostname:
++            hostname = parts.hostname.encode('idna')
++        else:
++            hostname = None
++       
++        # Fix auth part
++        if parts.username or parts.password:
++            username = urllib.quote(parts.username.encode("utf-8"))
++            if parts.password:
++                password = urllib.quote(parts.password.encode("utf-8"))
++                username = username + ":" + password
++            hostname = username + "@" + hostname
++
++        # add the port
++        if parts.port:
++            hostname += ":" + str(parts.port)
++        
++        path = urllib.quote(parts.path.encode("utf-8"), safe="/:~+")
++        query = urllib.quote(parts.query.encode("utf-8"), safe="=%&[]:;$()+,!?*/")
++
++        return urlparse.urlunsplit([parts.scheme,
++                                      hostname,
++                                      path,
++                                      query,
++                                      parts.fragment])
++    else:
++        return urllib.quote(smart_str(iri), safe='/#%[]=:;$&()+,!?*')
++
++
+ # The encoding of the default system locale but falls back to the
+ # given fallback encoding if the encoding is unsupported by python or could
+ # not be determined.  See tickets #10335 and #5846

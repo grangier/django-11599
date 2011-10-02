@@ -66,4 +66,9 @@ def timeuntil(d, now=None):
             now = datetime.datetime.now(LocalTimezone(d))
         else:
             now = datetime.datetime.now()
+
+    # Convert datetime.date to datetime.datetime for comparison
+    if d.__class__ is not datetime.datetime:
+        d = datetime.datetime(d.year, d.month, d.day)
+
     return timesince(now, d)

@@ -19,10 +19,13 @@ class CacheClass(BaseCache):
     def add(self, key, value, timeout=0):
         if isinstance(value, unicode):
             value = value.encode('utf-8')
-        return self._cache.add(smart_str(key), value, timeout or self.default_timeout)
+        value = self._cache.add(smart_str(key), value, timeout or self.default_timeout)
+        self.close()
+        return value
 
     def get(self, key, default=None):
         val = self._cache.get(smart_str(key))
+        self.close()
         if val is None:
             return default
         else:
@@ -35,18 +38,45 @@ class CacheClass(BaseCache):
         if isinstance(value, unicode):
             value = value.encode('utf-8')
         self._cache.set(smart_str(key), value, timeout or self.default_timeout)
+        self.close()
 
     def delete(self, key):
         self._cache.delete(smart_str(key))
+        self.close()
 
     def get_many(self, keys):
-        return self._cache.get_multi(map(smart_str,keys))
+        values = self._cache.get_multi(map(smart_str,keys))
+        self.close()
+        return values
 
     def close(self, **kwargs):
         self._cache.disconnect_all()
 
     def incr(self, key, delta=1):
-        return self._cache.incr(key, delta)
+        try:
+            val = self._cache.incr(key, delta)
+            self.close()
+
+        # python-memcache responds to incr on non-existent keys by
+        # raising a ValueError. Cmemcache returns None. In both
+        # cases, we should raise a ValueError though.
+        except ValueError:
+            val = None
+        if val is None:
+            raise ValueError("Key '%s' not found" % key)
+
+        return val
 
     def decr(self, key, delta=1):
-        return self._cache.decr(key, delta)
+        try:
+            val = self._cache.decr(key, delta)
+            self.close()
+
+        # python-memcache responds to decr on non-existent keys by
+        # raising a ValueError. Cmemcache returns None. In both
+        # cases, we should raise a ValueError though.
+        except ValueError:
+            val = None
+        if val is None:
+            raise ValueError("Key '%s' not found" % key)
+        return val

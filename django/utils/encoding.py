@@ -1,5 +1,6 @@
 import types
 import urllib
+import urlparse
 import locale
 import datetime
 import codecs
@@ -136,7 +137,37 @@ def iri_to_uri(iri):
     # section 3.1 of RFC 3987.
     if iri is None:
         return iri
-    return urllib.quote(smart_str(iri), safe='/#%[]=:;$&()+,!?*')
+
+    if isinstance(iri, unicode):
+        parts = urlparse.urlsplit(iri)
+
+        if parts.hostname:
+            hostname = parts.hostname.encode('idna')
+        else:
+            hostname = None
+       
+        # Fix auth part
+        if parts.username or parts.password:
+            username = urllib.quote(parts.username.encode("utf-8"))
+            if parts.password:
+                password = urllib.quote(parts.password.encode("utf-8"))
+                username = username + ":" + password
+            hostname = username + "@" + hostname
+
+        # add the port
+        if parts.port:
+            hostname += ":" + str(parts.port)
+        
+        path = urllib.quote(parts.path.encode("utf-8"), safe="/:~+")
+        query = urllib.quote(parts.query.encode("utf-8"), safe="=%&[]:;$()+,!?*/")
+
+        return urlparse.urlunsplit([parts.scheme,
+                                      hostname,
+                                      path,
+                                      query,
+                                      parts.fragment])
+    else:
+        return urllib.quote(smart_str(iri), safe='/#%[]=:;$&()+,!?*')
 
 
 # The encoding of the default system locale but falls back to the

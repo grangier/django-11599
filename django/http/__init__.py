@@ -280,6 +280,7 @@ class HttpResponse(object):
         if not content_type:
             content_type = "%s; charset=%s" % (settings.DEFAULT_CONTENT_TYPE,
                     settings.DEFAULT_CHARSET)
+
         if not isinstance(content, basestring) and hasattr(content, '__iter__'):
             self._container = content
             self._is_string = False
@@ -317,7 +318,13 @@ class HttpResponse(object):
             yield value
 
     def __setitem__(self, header, value):
-        header, value = self._convert_to_ascii(header, value)
+        # Conversion to ASCII is done later on using iri_to_uri for a proper
+        # puny-code friendly encoding.
+        #
+        # See: HttpRequest.build_absolute_uri
+        #      fix_location_header
+        if header != 'Location' and isinstance(value, unicode):
+            header, value = self._convert_to_ascii(header, value)
         self._headers[header.lower()] = (header, value)
 
     def __delitem__(self, header):

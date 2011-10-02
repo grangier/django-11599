@@ -405,8 +405,9 @@ def create_many_related_manager(superclass, through=False):
     """Creates a manager that subclasses 'superclass' (which is a Manager)
     and adds behavior for many-to-many related objects."""
     class ManyRelatedManager(superclass):
-        def __init__(self, model=None, core_filters=None, instance=None, symmetrical=None,
-                join_table=None, source_col_name=None, target_col_name=None):
+        def __init__(self, model=None, core_filters=None, instance=None,
+                     symmetrical=None, join_table=None, source_col_name=None,
+                     target_col_name=None, field_name=None, reverse=False):
             super(ManyRelatedManager, self).__init__()
             self.core_filters = core_filters
             self.model = model
@@ -417,6 +418,8 @@ def create_many_related_manager(superclass, through=False):
             self.target_col_name = target_col_name
             self.through = through
             self._pk_val = self.instance._get_pk_val()
+            self.field_name = field_name
+            self.reverse = reverse
             if self._pk_val is None:
                 raise ValueError("%r instance needs to have a primary key value before a many-to-many relationship can be used." % instance.__class__.__name__)
 
@@ -498,10 +501,22 @@ def create_many_related_manager(superclass, through=False):
                 existing_ids = set([row[0] for row in cursor.fetchall()])
 
                 # Add the ones that aren't there already
-                for obj_id in (new_ids - existing_ids):
+                new_ids = new_ids - existing_ids
+                for obj_id in new_ids:
                     cursor.execute("INSERT INTO %s (%s, %s) VALUES (%%s, %%s)" % \
                         (self.join_table, source_col_name, target_col_name),
                         [self._pk_val, obj_id])
+                added_objs = [obj for obj in objs if \
+                        (isinstance(obj, self.model) and obj._get_pk_val() in new_ids) \
+                        or obj in new_ids]
+                if self.reverse:
+                    sender = self.model
+                else:
+                    sender = self.instance.__class__
+                signals.m2m_changed.send(sender=sender, action='add',
+                    instance=self.instance, model=self.model, 
+                    reverse=self.reverse, field_name=self.field_name, 
+                    objects=added_objs)
                 transaction.commit_unless_managed()
 
         def _remove_items(self, source_col_name, target_col_name, *objs):
@@ -524,9 +539,24 @@ def create_many_related_manager(superclass, through=False):
                     (self.join_table, source_col_name,
                     target_col_name, ",".join(['%s'] * len(old_ids))),
                     [self._pk_val] + list(old_ids))
+                if self.reverse:
+                    sender = self.model
+                else:
+                    sender = self.instance.__class__
+                signals.m2m_changed.send(sender=sender, action="remove",
+                    instance=self.instance, model=self.model,
+                    reverse=self.reverse, field_name=self.field_name, 
+                    objects=list(objs))
                 transaction.commit_unless_managed()
 
         def _clear_items(self, source_col_name):
+            if self.reverse:
+                    sender = self.model
+            else:
+                    sender = self.instance.__class__
+            signals.m2m_changed.send(sender=sender, action="clear",
+                instance=self.instance, model=self.model, reverse=self.reverse, 
+                field_name=self.field_name, objects=None)
             # source_col_name: the PK colname in join_table for the source object
             cursor = connection.cursor()
             cursor.execute("DELETE FROM %s WHERE %s = %%s" % \
@@ -564,7 +594,9 @@ class ManyRelatedObjectsDescriptor(object):
             symmetrical=False,
             join_table=qn(self.related.field.m2m_db_table()),
             source_col_name=qn(self.related.field.m2m_reverse_name()),
-            target_col_name=qn(self.related.field.m2m_column_name())
+            target_col_name=qn(self.related.field.m2m_column_name()),
+            field_name=self.related.field.name,
+            reverse=True
         )
 
         return manager
@@ -609,7 +641,9 @@ class ReverseManyRelatedObjectsDescriptor(object):
             symmetrical=(self.field.rel.symmetrical and isinstance(instance, rel_model)),
             join_table=qn(self.field.m2m_db_table()),
             source_col_name=qn(self.field.m2m_column_name()),
-            target_col_name=qn(self.field.m2m_reverse_name())
+            target_col_name=qn(self.field.m2m_reverse_name()),
+            field_name=self.field.name,
+            reverse=False
         )
 
         return manager

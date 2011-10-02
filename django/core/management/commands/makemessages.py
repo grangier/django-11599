@@ -18,6 +18,7 @@ except NameError:
 warnings.filterwarnings('ignore', category=DeprecationWarning, message=r'os\.popen3')
 
 pythonize_re = re.compile(r'\n\s*//')
+pythonize_re2 = re.compile('gettext')
 
 def handle_extensions(extensions=('html',)):
     """
@@ -121,10 +122,18 @@ def make_messages(locale=None, domain='django', verbosity='1', all=False, extens
             if domain == 'djangojs' and file_ext == '.js':
                 if verbosity > 1:
                     sys.stdout.write('processing file %s in %s\n' % (file, dirpath))
-                src = open(os.path.join(dirpath, file), "rU").read()
-                src = pythonize_re.sub('\n#', src)
+                src = open(os.path.join(dirpath, file), "r").readlines()
+                dest = open(os.path.join(dirpath, '%s.py' % file), "wb")
+                for line in src :
+                    if not pythonize_re2.search(line):
+                        dest.write('#%s' % line)
+                    else:
+                        dest.write(line)
+                dest.close()
+                #src = open(os.path.join(dirpath, file), "rU").read()
+                #src = pythonize_re.sub('\n#', src)
                 thefile = '%s.py' % file
-                open(os.path.join(dirpath, thefile), "w").write(src)
+                #open(os.path.join(dirpath, thefile), "w").write(src)
                 cmd = 'xgettext -d %s -L Perl --keyword=gettext_noop --keyword=gettext_lazy --keyword=ngettext_lazy:1,2 --from-code UTF-8 -o - "%s"' % (domain, os.path.join(dirpath, thefile))
                 (stdin, stdout, stderr) = os.popen3(cmd, 't')
                 msgs = stdout.read()

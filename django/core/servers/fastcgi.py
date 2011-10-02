@@ -176,7 +176,8 @@ def runfastcgi(argset=[], **kwargs):
         fp = open(options["pidfile"], "w")
         fp.write("%d\n" % os.getpid())
         fp.close()
-
+    
+    print wsgi_opts
     WSGIServer(WSGIHandler(), **wsgi_opts).run()
 
 if __name__ == '__main__':

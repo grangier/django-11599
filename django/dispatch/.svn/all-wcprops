@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10831/django/trunk/django/dispatch
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8223/django/trunk/django/dispatch/license.txt
+END
+saferef.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8223/django/trunk/django/dispatch/saferef.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8223/django/trunk/django/dispatch/__init__.py
+END
+dispatcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10831/django/trunk/django/dispatch/dispatcher.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10584/django/trunk/django/forms/extras
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7971/django/trunk/django/forms/extras/__init__.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10584/django/trunk/django/forms/extras/widgets.py
+END

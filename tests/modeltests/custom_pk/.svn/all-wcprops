@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11007/django/trunk/tests/modeltests/custom_pk
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/custom_pk/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11007/django/trunk/tests/modeltests/custom_pk/models.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10952/django/trunk/tests/modeltests/custom_pk/fields.py
+END

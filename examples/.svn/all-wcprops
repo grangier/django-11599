@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5876/django/trunk/examples
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5876/django/trunk/examples/manage.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5876/django/trunk/examples/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5876/django/trunk/examples/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5876/django/trunk/examples/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5876/django/trunk/examples/urls.py
+END

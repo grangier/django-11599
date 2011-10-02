@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7982/django/trunk/tests/regressiontests/admin_scripts/management/commands
+END
+base_command.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7914/django/trunk/tests/regressiontests/admin_scripts/management/commands/base_command.py
+END
+label_command.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7914/django/trunk/tests/regressiontests/admin_scripts/management/commands/label_command.py
+END
+app_command.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7914/django/trunk/tests/regressiontests/admin_scripts/management/commands/app_command.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7876/django/trunk/tests/regressiontests/admin_scripts/management/commands/__init__.py
+END
+noargs_command.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7914/django/trunk/tests/regressiontests/admin_scripts/management/commands/noargs_command.py
+END

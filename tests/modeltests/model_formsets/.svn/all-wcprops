@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10682/django/trunk/tests/modeltests/model_formsets
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7967/django/trunk/tests/modeltests/model_formsets/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10390/django/trunk/tests/modeltests/model_formsets/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10682/django/trunk/tests/modeltests/model_formsets/models.py
+END

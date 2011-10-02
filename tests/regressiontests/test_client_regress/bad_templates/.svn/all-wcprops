@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8464/django/trunk/tests/regressiontests/test_client_regress/bad_templates
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8464/django/trunk/tests/regressiontests/test_client_regress/bad_templates/404.html
+END

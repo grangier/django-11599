@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9908/django/trunk/django/contrib/sites
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7967/django/trunk/django/contrib/sites/admin.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8223/django/trunk/django/contrib/sites/management.py
+END
+managers.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4265/django/trunk/django/contrib/sites/managers.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4265/django/trunk/django/contrib/sites/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9908/django/trunk/django/contrib/sites/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9908/django/trunk/django/contrib/sites/models.py
+END

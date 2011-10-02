@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10753/django/trunk/django/contrib/formtools
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4265/django/trunk/django/contrib/formtools/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10753/django/trunk/django/contrib/formtools/utils.py
+END
+wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8679/django/trunk/django/contrib/formtools/wizard.py
+END
+preview.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8597/django/trunk/django/contrib/formtools/preview.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10753/django/trunk/django/contrib/formtools/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7294/django/trunk/django/contrib/formtools/models.py
+END
+test_urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10256/django/trunk/django/contrib/formtools/test_urls.py
+END

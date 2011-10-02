@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11481/django/trunk/django/contrib/auth/tests
+END
+remote_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10674/django/trunk/django/contrib/auth/tests/remote_user.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10599/django/trunk/django/contrib/auth/tests/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11481/django/trunk/django/contrib/auth/tests/__init__.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10404/django/trunk/django/contrib/auth/tests/basic.py
+END
+tokens.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10341/django/trunk/django/contrib/auth/tests/tokens.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10674/django/trunk/django/contrib/auth/tests/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9906/django/trunk/django/contrib/auth/tests/forms.py
+END

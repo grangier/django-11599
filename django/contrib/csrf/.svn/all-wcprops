@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10801/django/trunk/django/contrib/csrf
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10617/django/trunk/django/contrib/csrf/middleware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4265/django/trunk/django/contrib/csrf/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10801/django/trunk/django/contrib/csrf/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9551/django/trunk/django/contrib/csrf/models.py
+END

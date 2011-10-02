@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11590/django/trunk/django/utils
+END
+termcolors.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4265/django/trunk/django/utils/termcolors.py
+END
+_decimal.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5876/django/trunk/django/utils/_decimal.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/django/trunk/django/utils/__init__.py
+END
+autoreload.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8235/django/trunk/django/utils/autoreload.py
+END
+dates.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5609/django/trunk/django/utils/dates.py
+END
+importlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10088/django/trunk/django/utils/importlib.py
+END
+stopwords.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5609/django/trunk/django/utils/stopwords.py
+END
+html.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10371/django/trunk/django/utils/html.py
+END
+safestring.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7294/django/trunk/django/utils/safestring.py
+END
+regex_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8929/django/trunk/django/utils/regex_helper.py
+END
+tzinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10703/django/trunk/django/utils/tzinfo.py
+END
+daemonize.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7800/django/trunk/django/utils/daemonize.py
+END
+datastructures.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11495/django/trunk/django/utils/datastructures.py
+END
+_threading_local.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10098/django/trunk/django/utils/_threading_local.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10114/django/trunk/django/utils/http.py
+END
+_os.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9411/django/trunk/django/utils/_os.py
+END
+xmlutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4265/django/trunk/django/utils/xmlutils.py
+END
+synch.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5068/django/trunk/django/utils/synch.py
+END
+datetime_safe.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7946/django/trunk/django/utils/datetime_safe.py
+END
+tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8413/django/trunk/django/utils/tree.py
+END
+functional.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9945/django/trunk/django/utils/functional.py
+END
+thread_support.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8015/django/trunk/django/utils/thread_support.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10335/django/trunk/django/utils/cache.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11590/django/trunk/django/utils/decorators.py
+END
+itercompat.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8805/django/trunk/django/utils/itercompat.py
+END
+feedgenerator.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10801/django/trunk/django/utils/feedgenerator.py
+END
+timesince.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10215/django/trunk/django/utils/timesince.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10462/django/trunk/django/utils/text.py
+END
+checksums.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7294/django/trunk/django/utils/checksums.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10377/django/trunk/django/utils/version.py
+END
+encoding.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10703/django/trunk/django/utils/encoding.py
+END
+dateformat.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10716/django/trunk/django/utils/dateformat.py
+END
+hashcompat.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8193/django/trunk/django/utils/hashcompat.py
+END

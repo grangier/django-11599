@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10979/django/trunk/django/contrib/gis/utils
+END
+layermapping.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9688/django/trunk/django/contrib/gis/utils/layermapping.py
+END
+ogrinspect.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10861/django/trunk/django/contrib/gis/utils/ogrinspect.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/utils/__init__.py
+END
+geoip.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10979/django/trunk/django/contrib/gis/utils/geoip.py
+END
+ogrinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/utils/ogrinfo.py
+END
+wkt.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/utils/wkt.py
+END
+srs.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10229/django/trunk/django/contrib/gis/utils/srs.py
+END

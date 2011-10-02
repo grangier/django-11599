@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6671/django/trunk/tests/regressiontests/humanize
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5876/django/trunk/tests/regressiontests/humanize/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6671/django/trunk/tests/regressiontests/humanize/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5876/django/trunk/tests/regressiontests/humanize/models.py
+END

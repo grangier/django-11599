@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8984/django/trunk/django/contrib/formtools/templates/formtools
+END
+preview.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8984/django/trunk/django/contrib/formtools/templates/formtools/preview.html
+END
+form.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7294/django/trunk/django/contrib/formtools/templates/formtools/form.html
+END

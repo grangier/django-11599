@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10143/django/trunk/tests/regressiontests/null_fk_ordering
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8783/django/trunk/tests/regressiontests/null_fk_ordering/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10143/django/trunk/tests/regressiontests/null_fk_ordering/models.py
+END

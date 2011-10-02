@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8322/django/trunk/tests/regressiontests/context_processors
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8202/django/trunk/tests/regressiontests/context_processors/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8202/django/trunk/tests/regressiontests/context_processors/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8202/django/trunk/tests/regressiontests/context_processors/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8202/django/trunk/tests/regressiontests/context_processors/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8202/django/trunk/tests/regressiontests/context_processors/urls.py
+END

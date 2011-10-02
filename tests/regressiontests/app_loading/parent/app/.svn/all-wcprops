@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10078/django/trunk/tests/regressiontests/app_loading/parent/app
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10078/django/trunk/tests/regressiontests/app_loading/parent/app/__init__.py
+END

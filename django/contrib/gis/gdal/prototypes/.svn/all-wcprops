@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11205/django/trunk/django/contrib/gis/gdal/prototypes
+END
+generation.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11205/django/trunk/django/contrib/gis/gdal/prototypes/generation.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/gdal/prototypes/__init__.py
+END
+ds.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/gdal/prototypes/ds.py
+END
+errcheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9693/django/trunk/django/contrib/gis/gdal/prototypes/errcheck.py
+END
+geom.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/prototypes/geom.py
+END
+srs.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/prototypes/srs.py
+END

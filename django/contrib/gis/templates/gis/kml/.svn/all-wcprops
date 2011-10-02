@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8480/django/trunk/django/contrib/gis/templates/gis/kml
+END
+placemarks.kml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8480/django/trunk/django/contrib/gis/templates/gis/kml/placemarks.kml
+END
+base.kml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/templates/gis/kml/base.kml
+END

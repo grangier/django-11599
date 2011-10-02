@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10822/django/trunk/tests/modeltests/delete
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7721/django/trunk/tests/modeltests/delete/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10822/django/trunk/tests/modeltests/delete/models.py
+END

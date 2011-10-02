@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11551/django/trunk/tests/regressiontests/admin_views/fixtures
+END
+multiple-child-classes.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10684/django/trunk/tests/regressiontests/admin_views/fixtures/multiple-child-classes.json
+END
+admin-views-actions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10121/django/trunk/tests/regressiontests/admin_views/fixtures/admin-views-actions.xml
+END
+admin-views-colors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9241/django/trunk/tests/regressiontests/admin_views/fixtures/admin-views-colors.xml
+END
+admin-views-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9211/django/trunk/tests/regressiontests/admin_views/fixtures/admin-views-users.xml
+END
+admin-views-person.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11551/django/trunk/tests/regressiontests/admin_views/fixtures/admin-views-person.xml
+END
+admin-views-unicode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9657/django/trunk/tests/regressiontests/admin_views/fixtures/admin-views-unicode.xml
+END
+admin-views-fabrics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10318/django/trunk/tests/regressiontests/admin_views/fixtures/admin-views-fabrics.xml
+END
+string-primary-key.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7967/django/trunk/tests/regressiontests/admin_views/fixtures/string-primary-key.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10373/django/trunk/tests/regressiontests/generic_relations_regress
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10373/django/trunk/tests/regressiontests/generic_relations_regress/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10373/django/trunk/tests/regressiontests/generic_relations_regress/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10373/django/trunk/tests/regressiontests/generic_relations_regress/models.py
+END

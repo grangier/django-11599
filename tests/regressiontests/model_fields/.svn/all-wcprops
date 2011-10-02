@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10860/django/trunk/tests/regressiontests/model_fields
+END
+4x8.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10858/django/trunk/tests/regressiontests/model_fields/4x8.png
+END
+8x4.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10858/django/trunk/tests/regressiontests/model_fields/8x4.png
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5876/django/trunk/tests/regressiontests/model_fields/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10858/django/trunk/tests/regressiontests/model_fields/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10858/django/trunk/tests/regressiontests/model_fields/models.py
+END
+imagefield.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10860/django/trunk/tests/regressiontests/model_fields/imagefield.py
+END

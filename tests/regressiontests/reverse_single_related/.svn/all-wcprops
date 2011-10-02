@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8212/django/trunk/tests/regressiontests/reverse_single_related
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8017/django/trunk/tests/regressiontests/reverse_single_related/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8212/django/trunk/tests/regressiontests/reverse_single_related/models.py
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9910/django/trunk/django/utils/simplejson
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8124/django/trunk/django/utils/simplejson/LICENSE.txt
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9707/django/trunk/django/utils/simplejson/scanner.py
+END
+tool.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9707/django/trunk/django/utils/simplejson/tool.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9910/django/trunk/django/utils/simplejson/__init__.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9707/django/trunk/django/utils/simplejson/encoder.py
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9707/django/trunk/django/utils/simplejson/decoder.py
+END

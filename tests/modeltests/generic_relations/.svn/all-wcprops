@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10017/django/trunk/tests/modeltests/generic_relations
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/generic_relations/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10017/django/trunk/tests/modeltests/generic_relations/models.py
+END

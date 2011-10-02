@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10723/django/trunk/tests/regressiontests/file_uploads
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10388/django/trunk/tests/regressiontests/file_uploads/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7814/django/trunk/tests/regressiontests/file_uploads/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10723/django/trunk/tests/regressiontests/file_uploads/tests.py
+END
+uploadhandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8748/django/trunk/tests/regressiontests/file_uploads/uploadhandler.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8244/django/trunk/tests/regressiontests/file_uploads/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10388/django/trunk/tests/regressiontests/file_uploads/urls.py
+END

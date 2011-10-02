@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11595/django/trunk/tests/regressiontests/decorators
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7294/django/trunk/tests/regressiontests/decorators/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11595/django/trunk/tests/regressiontests/decorators/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7294/django/trunk/tests/regressiontests/decorators/models.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9708/django/trunk/django/conf/app_template
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4265/django/trunk/django/conf/app_template/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4265/django/trunk/django/conf/app_template/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9708/django/trunk/django/conf/app_template/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4265/django/trunk/django/conf/app_template/models.py
+END

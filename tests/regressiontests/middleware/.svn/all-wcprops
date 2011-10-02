@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9200/django/trunk/tests/regressiontests/middleware
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7294/django/trunk/tests/regressiontests/middleware/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9200/django/trunk/tests/regressiontests/middleware/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7294/django/trunk/tests/regressiontests/middleware/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7294/django/trunk/tests/regressiontests/middleware/urls.py
+END

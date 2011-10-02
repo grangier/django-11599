@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10631/django/trunk/django/contrib/gis/db/backend/oracle
+END
+adaptor.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/db/backend/oracle/adaptor.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10197/django/trunk/django/contrib/gis/db/backend/oracle/__init__.py
+END
+field.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10631/django/trunk/django/contrib/gis/db/backend/oracle/field.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10579/django/trunk/django/contrib/gis/db/backend/oracle/models.py
+END
+creation.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10197/django/trunk/django/contrib/gis/db/backend/oracle/creation.py
+END
+query.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8224/django/trunk/django/contrib/gis/db/backend/oracle/query.py
+END

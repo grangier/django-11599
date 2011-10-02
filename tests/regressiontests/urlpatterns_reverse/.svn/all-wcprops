@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11250/django/trunk/tests/regressiontests/urlpatterns_reverse
+END
+extra_urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9099/django/trunk/tests/regressiontests/urlpatterns_reverse/extra_urls.py
+END
+included_namespace_urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11250/django/trunk/tests/regressiontests/urlpatterns_reverse/included_namespace_urls.py
+END
+included_urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8760/django/trunk/tests/regressiontests/urlpatterns_reverse/included_urls.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9087/django/trunk/tests/regressiontests/urlpatterns_reverse/views.py
+END
+included_urls2.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9099/django/trunk/tests/regressiontests/urlpatterns_reverse/included_urls2.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5876/django/trunk/tests/regressiontests/urlpatterns_reverse/__init__.py
+END
+namespace_urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11250/django/trunk/tests/regressiontests/urlpatterns_reverse/namespace_urls.py
+END
+no_urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10385/django/trunk/tests/regressiontests/urlpatterns_reverse/no_urls.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11250/django/trunk/tests/regressiontests/urlpatterns_reverse/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5876/django/trunk/tests/regressiontests/urlpatterns_reverse/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9728/django/trunk/tests/regressiontests/urlpatterns_reverse/urls.py
+END

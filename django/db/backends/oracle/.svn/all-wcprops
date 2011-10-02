@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11477/django/trunk/django/db/backends/oracle
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11477/django/trunk/django/db/backends/oracle/base.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10517/django/trunk/django/db/backends/oracle/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4265/django/trunk/django/db/backends/oracle/__init__.py
+END
+introspection.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11475/django/trunk/django/db/backends/oracle/introspection.py
+END
+creation.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10608/django/trunk/django/db/backends/oracle/creation.py
+END
+query.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10742/django/trunk/django/db/backends/oracle/query.py
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11205/django/trunk/django/contrib/gis/gdal
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/error.py
+END
+geomtype.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/geomtype.py
+END
+datasource.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/datasource.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/base.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/LICENSE
+END
+driver.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/driver.py
+END
+feature.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/feature.py
+END
+layer.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/layer.py
+END
+envelope.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/envelope.py
+END
+libgdal.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10985/django/trunk/django/contrib/gis/gdal/libgdal.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8289/django/trunk/django/contrib/gis/gdal/__init__.py
+END
+geometries.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/geometries.py
+END
+field.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/field.py
+END
+srs.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9985/django/trunk/django/contrib/gis/gdal/srs.py
+END

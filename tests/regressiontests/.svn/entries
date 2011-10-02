@@ -1,0 +1,305 @@
+10
+
+dir
+11599
+http://code.djangoproject.com/svn/django/trunk/tests/regressiontests
+http://code.djangoproject.com/svn
+
+
+
+2009-09-28T21:54:54.349651Z
+11595
+lukeplant
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+bcc190cf-cafb-0310-a4f2-bffc1f526a37
+
+defer_regress
+dir
+
+humanize
+dir
+
+custom_managers_regress
+dir
+
+null_fk_ordering
+dir
+
+db_typecasts
+dir
+
+text
+dir
+
+m2m_regress
+dir
+
+__init__.py
+file
+
+
+
+
+2011-10-02T03:21:40.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-08-12T12:49:01.338903Z
+5876
+mtredinnick
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+null_fk
+dir
+
+get_or_create_regress
+dir
+
+string_lookup
+dir
+
+test_utils
+dir
+
+model_inheritance_regress
+dir
+
+cache
+dir
+
+admin_views
+dir
+
+defaultfilters
+dir
+
+admin_widgets
+dir
+
+bug639
+dir
+
+aggregation_regress
+dir
+
+admin_ordering
+dir
+
+formwizard
+dir
+
+servers
+dir
+
+datetime_safe
+dir
+
+delete_regress
+dir
+
+views
+dir
+
+conditional_processing
+dir
+
+dispatch
+dir
+
+model_forms_regress
+dir
+
+bug8245
+dir
+
+many_to_one_regress
+dir
+
+admin_validation
+dir
+
+file_storage
+dir
+
+file_uploads
+dir
+
+null_queries
+dir
+
+test_client_regress
+dir
+
+requests
+dir
+
+expressions_regress
+dir
+
+app_loading
+dir
+
+one_to_one_regress
+dir
+
+generic_inline_admin
+dir
+
+comment_tests
+dir
+
+syndication
+dir
+
+m2m_through_regress
+dir
+
+dateformat
+dir
+
+managers_regress
+dir
+
+admin_changelist
+dir
+
+model_regress
+dir
+
+builtin_server
+dir
+
+datatypes
+dir
+
+decorators
+dir
+
+context_processors
+dir
+
+modeladmin
+dir
+
+max_lengths
+dir
+
+admin_inlines
+dir
+
+model_formsets_regress
+dir
+
+reverse_single_related
+dir
+
+middleware
+dir
+
+extra_regress
+dir
+
+i18n
+dir
+
+mail
+dir
+
+admin_registration
+dir
+
+pagination_regress
+dir
+
+model_fields
+dir
+
+generic_relations_regress
+dir
+
+forms
+dir
+
+serializers_regress
+dir
+
+auth_backends
+dir
+
+templates
+dir
+
+admin_scripts
+dir
+
+introspection
+dir
+
+inline_formsets
+dir
+
+utils
+dir
+
+initial_sql_regress
+dir
+
+httpwrappers
+dir
+
+fixtures_regress
+dir
+
+custom_columns_regress
+dir
+
+model_inheritance_select_related
+dir
+
+select_related_regress
+dir
+
+backends
+dir
+
+datastructures
+dir
+
+queries
+dir
+
+urlpatterns_reverse
+dir
+

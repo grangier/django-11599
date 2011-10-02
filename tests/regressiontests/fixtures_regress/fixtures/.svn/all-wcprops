@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9695/django/trunk/tests/regressiontests/fixtures_regress/fixtures
+END
+model-inheritance.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7789/django/trunk/tests/regressiontests/fixtures_regress/fixtures/model-inheritance.json
+END
+animal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9695/django/trunk/tests/regressiontests/fixtures_regress/fixtures/animal.xml
+END
+sequence.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9695/django/trunk/tests/regressiontests/fixtures_regress/fixtures/sequence.json
+END
+absolute.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7145/django/trunk/tests/regressiontests/fixtures_regress/fixtures/absolute.json
+END
+empty.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9358/django/trunk/tests/regressiontests/fixtures_regress/fixtures/empty.json
+END
+pretty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7294/django/trunk/tests/regressiontests/fixtures_regress/fixtures/pretty.xml
+END
+bad_fixture1.unkn
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7595/django/trunk/tests/regressiontests/fixtures_regress/fixtures/bad_fixture1.unkn
+END
+bad_fixture2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7595/django/trunk/tests/regressiontests/fixtures_regress/fixtures/bad_fixture2.xml
+END
+big-fixture.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7803/django/trunk/tests/regressiontests/fixtures_regress/fixtures/big-fixture.json
+END

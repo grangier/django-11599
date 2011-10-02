@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9934/django/trunk/django/contrib/sessions/backends
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8459/django/trunk/django/contrib/sessions/backends/base.py
+END
+cached_db.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9727/django/trunk/django/contrib/sessions/backends/cached_db.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7294/django/trunk/django/contrib/sessions/backends/__init__.py
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8812/django/trunk/django/contrib/sessions/backends/file.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9934/django/trunk/django/contrib/sessions/backends/cache.py
+END
+db.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8507/django/trunk/django/contrib/sessions/backends/db.py
+END

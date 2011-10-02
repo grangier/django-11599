@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8516/django/trunk/tests/regressiontests/get_or_create_regress
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8415/django/trunk/tests/regressiontests/get_or_create_regress/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8415/django/trunk/tests/regressiontests/get_or_create_regress/models.py
+END

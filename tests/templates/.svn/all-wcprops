@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10458/django/trunk/tests/templates
+END
+form_view.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7294/django/trunk/tests/templates/form_view.html
+END
+extended.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10084/django/trunk/tests/templates/extended.html
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7294/django/trunk/tests/templates/500.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7294/django/trunk/tests/templates/404.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7294/django/trunk/tests/templates/login.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7294/django/trunk/tests/templates/base.html
+END

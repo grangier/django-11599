@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/tests/data/test_vrt
+END
+test_vrt.csv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/tests/data/test_vrt/test_vrt.csv
+END
+test_vrt.vrt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/tests/data/test_vrt/test_vrt.vrt
+END

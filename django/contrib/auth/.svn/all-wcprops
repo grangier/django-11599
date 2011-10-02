@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11587/django/trunk/django/contrib/auth
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10591/django/trunk/django/contrib/auth/admin.py
+END
+backends.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10063/django/trunk/django/contrib/auth/backends.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10063/django/trunk/django/contrib/auth/middleware.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10332/django/trunk/django/contrib/auth/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10088/django/trunk/django/contrib/auth/__init__.py
+END
+create_superuser.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7596/django/trunk/django/contrib/auth/create_superuser.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10217/django/trunk/django/contrib/auth/models.py
+END
+tokens.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10341/django/trunk/django/contrib/auth/tokens.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11587/django/trunk/django/contrib/auth/decorators.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8497/django/trunk/django/contrib/auth/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9906/django/trunk/django/contrib/auth/forms.py
+END

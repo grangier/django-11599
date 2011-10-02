@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11528/django/trunk/django/core/handlers
+END
+profiler-hotshot.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4265/django/trunk/django/core/handlers/profiler-hotshot.py
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9996/django/trunk/django/core/handlers/wsgi.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10347/django/trunk/django/core/handlers/base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4265/django/trunk/django/core/handlers/__init__.py
+END
+modpython.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11528/django/trunk/django/core/handlers/modpython.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8616/django/trunk/django/contrib/localflavor/jp
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5876/django/trunk/django/contrib/localflavor/jp/__init__.py
+END
+jp_prefectures.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5876/django/trunk/django/contrib/localflavor/jp/jp_prefectures.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8616/django/trunk/django/contrib/localflavor/jp/forms.py
+END

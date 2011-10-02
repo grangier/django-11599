@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9921/django/trunk/tests/modeltests/fixtures
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/fixtures/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9921/django/trunk/tests/modeltests/fixtures/models.py
+END

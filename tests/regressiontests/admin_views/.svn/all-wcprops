@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11551/django/trunk/tests/regressiontests/admin_views
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8509/django/trunk/tests/regressiontests/admin_views/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7967/django/trunk/tests/regressiontests/admin_views/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11551/django/trunk/tests/regressiontests/admin_views/tests.py
+END
+customadmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11250/django/trunk/tests/regressiontests/admin_views/customadmin.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11160/django/trunk/tests/regressiontests/admin_views/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9739/django/trunk/tests/regressiontests/admin_views/urls.py
+END

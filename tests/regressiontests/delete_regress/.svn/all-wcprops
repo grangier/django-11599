@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10914/django/trunk/tests/regressiontests/delete_regress
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10913/django/trunk/tests/regressiontests/delete_regress/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10913/django/trunk/tests/regressiontests/delete_regress/models.py
+END

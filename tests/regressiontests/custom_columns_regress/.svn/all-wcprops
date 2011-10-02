@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9544/django/trunk/tests/regressiontests/custom_columns_regress
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9543/django/trunk/tests/regressiontests/custom_columns_regress/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9543/django/trunk/tests/regressiontests/custom_columns_regress/models.py
+END

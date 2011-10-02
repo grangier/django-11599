@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10785/django/trunk/tests/regressiontests/comment_tests/tests
+END
+templatetag_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8557/django/trunk/tests/regressiontests/comment_tests/tests/templatetag_tests.py
+END
+app_api_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9945/django/trunk/tests/regressiontests/comment_tests/tests/app_api_tests.py
+END
+moderation_view_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9756/django/trunk/tests/regressiontests/comment_tests/tests/moderation_view_tests.py
+END
+comment_view_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10424/django/trunk/tests/regressiontests/comment_tests/tests/comment_view_tests.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10122/django/trunk/tests/regressiontests/comment_tests/tests/__init__.py
+END
+model_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8557/django/trunk/tests/regressiontests/comment_tests/tests/model_tests.py
+END
+comment_utils_moderators_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10785/django/trunk/tests/regressiontests/comment_tests/tests/comment_utils_moderators_tests.py
+END
+comment_form_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8557/django/trunk/tests/regressiontests/comment_tests/tests/comment_form_tests.py
+END

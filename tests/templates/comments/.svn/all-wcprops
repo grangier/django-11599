@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10122/django/trunk/tests/templates/comments
+END
+comment_notification_email.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10122/django/trunk/tests/templates/comments/comment_notification_email.txt
+END

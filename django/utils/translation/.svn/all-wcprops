@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10088/django/trunk/django/utils/translation
+END
+trans_real.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10088/django/trunk/django/utils/translation/trans_real.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8680/django/trunk/django/utils/translation/__init__.py
+END
+trans_null.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6681/django/trunk/django/utils/translation/trans_null.py
+END

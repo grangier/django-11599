@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11019/django/trunk/django/contrib/comments/views
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/28/django/trunk/django/contrib/comments/views/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10424/django/trunk/django/contrib/comments/views/utils.py
+END
+moderation.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8589/django/trunk/django/contrib/comments/views/moderation.py
+END
+comments.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11019/django/trunk/django/contrib/comments/views/comments.py
+END

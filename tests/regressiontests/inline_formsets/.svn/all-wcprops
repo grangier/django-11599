@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10706/django/trunk/tests/regressiontests/inline_formsets
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7967/django/trunk/tests/regressiontests/inline_formsets/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10706/django/trunk/tests/regressiontests/inline_formsets/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10283/django/trunk/tests/regressiontests/inline_formsets/models.py
+END

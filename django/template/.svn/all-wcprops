@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11250/django/trunk/django/template
+END
+defaultfilters.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10543/django/trunk/django/template/defaultfilters.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10519/django/trunk/django/template/__init__.py
+END
+defaulttags.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11250/django/trunk/django/template/defaulttags.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11250/django/trunk/django/template/context.py
+END
+loader_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10211/django/trunk/django/template/loader_tags.py
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7294/django/trunk/django/template/debug.py
+END
+loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10088/django/trunk/django/template/loader.py
+END

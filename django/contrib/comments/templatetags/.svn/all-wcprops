@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10109/django/trunk/django/contrib/comments/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4265/django/trunk/django/contrib/comments/templatetags/__init__.py
+END
+comments.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10109/django/trunk/django/contrib/comments/templatetags/comments.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10955/django/trunk/tests/modeltests/proxy_models
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10083/django/trunk/tests/modeltests/proxy_models/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10955/django/trunk/tests/modeltests/proxy_models/models.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10740/django/trunk/django/db/backends/postgresql_psycopg2
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10740/django/trunk/django/db/backends/postgresql_psycopg2/base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4265/django/trunk/django/db/backends/postgresql_psycopg2/__init__.py
+END
+introspection.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8296/django/trunk/django/db/backends/postgresql_psycopg2/introspection.py
+END

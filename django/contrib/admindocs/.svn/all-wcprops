@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11250/django/trunk/django/contrib/admindocs
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11250/django/trunk/django/contrib/admindocs/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7967/django/trunk/django/contrib/admindocs/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10683/django/trunk/django/contrib/admindocs/utils.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8717/django/trunk/django/contrib/admindocs/urls.py
+END

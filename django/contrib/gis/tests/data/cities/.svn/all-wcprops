@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10197/django/trunk/django/contrib/gis/tests/data/cities
+END
+cities.shx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10197/django/trunk/django/contrib/gis/tests/data/cities/cities.shx
+END
+cities.shp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10197/django/trunk/django/contrib/gis/tests/data/cities/cities.shp
+END
+cities.dbf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10197/django/trunk/django/contrib/gis/tests/data/cities/cities.dbf
+END
+cities.prj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10197/django/trunk/django/contrib/gis/tests/data/cities/cities.prj
+END

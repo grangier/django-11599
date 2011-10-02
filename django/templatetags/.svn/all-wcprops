@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11068/django/trunk/django/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10088/django/trunk/django/templatetags/__init__.py
+END
+i18n.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10519/django/trunk/django/templatetags/i18n.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11068/django/trunk/django/templatetags/cache.py
+END

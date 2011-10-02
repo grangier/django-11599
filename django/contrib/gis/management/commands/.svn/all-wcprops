@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11475/django/trunk/django/contrib/gis/management/commands
+END
+inspectdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11475/django/trunk/django/contrib/gis/management/commands/inspectdb.py
+END
+ogrinspect.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9278/django/trunk/django/contrib/gis/management/commands/ogrinspect.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/management/commands/__init__.py
+END

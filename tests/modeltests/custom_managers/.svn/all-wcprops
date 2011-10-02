@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/custom_managers
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/custom_managers/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/custom_managers/models.py
+END

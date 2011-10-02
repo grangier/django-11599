@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9438/django/trunk/tests/regressiontests/generic_inline_admin/fixtures
+END
+users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9412/django/trunk/tests/regressiontests/generic_inline_admin/fixtures/users.xml
+END

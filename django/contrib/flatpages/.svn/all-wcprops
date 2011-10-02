@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8857/django/trunk/django/contrib/flatpages
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8292/django/trunk/django/contrib/flatpages/admin.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8457/django/trunk/django/contrib/flatpages/middleware.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8457/django/trunk/django/contrib/flatpages/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4265/django/trunk/django/contrib/flatpages/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8616/django/trunk/django/contrib/flatpages/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4265/django/trunk/django/contrib/flatpages/urls.py
+END

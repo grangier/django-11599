@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6228/django/trunk/django/contrib/webdesign/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5189/django/trunk/django/contrib/webdesign/templatetags/__init__.py
+END
+webdesign.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6228/django/trunk/django/contrib/webdesign/templatetags/webdesign.py
+END

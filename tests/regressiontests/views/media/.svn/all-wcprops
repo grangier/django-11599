@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6939/django/trunk/tests/regressiontests/views/media
+END
+file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6370/django/trunk/tests/regressiontests/views/media/file.txt
+END
+file.unknown
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6939/django/trunk/tests/regressiontests/views/media/file.unknown
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11550/django/trunk/django/conf
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10088/django/trunk/django/conf/__init__.py
+END
+global_settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10840/django/trunk/django/conf/global_settings.py
+END

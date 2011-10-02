@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8062/django/trunk/django/contrib/sitemaps/management/commands
+END
+ping_google.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7813/django/trunk/django/contrib/sitemaps/management/commands/ping_google.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8062/django/trunk/django/contrib/sitemaps/management/commands/__init__.py
+END

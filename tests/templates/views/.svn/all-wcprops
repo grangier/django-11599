@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10458/django/trunk/tests/templates/views
+END
+article_archive_day.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10458/django/trunk/tests/templates/views/article_archive_day.html
+END
+article_confirm_delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7952/django/trunk/tests/templates/views/article_confirm_delete.html
+END
+article_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7952/django/trunk/tests/templates/views/article_detail.html
+END
+article_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7952/django/trunk/tests/templates/views/article_form.html
+END
+datearticle_archive_month.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8476/django/trunk/tests/templates/views/datearticle_archive_month.html
+END
+urlarticle_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7952/django/trunk/tests/templates/views/urlarticle_detail.html
+END
+article_archive_month.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7294/django/trunk/tests/templates/views/article_archive_month.html
+END
+urlarticle_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7952/django/trunk/tests/templates/views/urlarticle_form.html
+END

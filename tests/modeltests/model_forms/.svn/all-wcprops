@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10858/django/trunk/tests/modeltests/model_forms
+END
+test.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7025/django/trunk/tests/modeltests/model_forms/test.png
+END
+test2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9841/django/trunk/tests/modeltests/model_forms/test2.png
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/model_forms/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10858/django/trunk/tests/modeltests/model_forms/models.py
+END

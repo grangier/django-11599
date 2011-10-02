@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7423/django/trunk/django/contrib/markup
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4265/django/trunk/django/contrib/markup/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6850/django/trunk/django/contrib/markup/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5876/django/trunk/django/contrib/markup/models.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10128/django/trunk/django/conf/project_template
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4265/django/trunk/django/conf/project_template/manage.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4265/django/trunk/django/conf/project_template/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10128/django/trunk/django/conf/project_template/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9739/django/trunk/django/conf/project_template/urls.py
+END

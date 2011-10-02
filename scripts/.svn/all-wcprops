@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7294/django/trunk/scripts
+END
+rpm-install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7294/django/trunk/scripts/rpm-install.sh
+END

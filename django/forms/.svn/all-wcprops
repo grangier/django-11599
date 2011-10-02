@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11498/django/trunk/django/forms
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9365/django/trunk/django/forms/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7971/django/trunk/django/forms/__init__.py
+END
+formsets.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10643/django/trunk/django/forms/formsets.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11160/django/trunk/django/forms/models.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11485/django/trunk/django/forms/fields.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11498/django/trunk/django/forms/forms.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11496/django/trunk/django/forms/widgets.py
+END

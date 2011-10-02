@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11205/django/trunk/django/contrib/gis/geos
+END
+point.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10494/django/trunk/django/contrib/gis/geos/point.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/geos/error.py
+END
+geometry.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10494/django/trunk/django/contrib/gis/geos/geometry.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10131/django/trunk/django/contrib/gis/geos/LICENSE
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10131/django/trunk/django/contrib/gis/geos/__init__.py
+END
+prepared.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10131/django/trunk/django/contrib/gis/geos/prepared.py
+END
+io.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10177/django/trunk/django/contrib/gis/geos/io.py
+END
+factory.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10131/django/trunk/django/contrib/gis/geos/factory.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10177/django/trunk/django/contrib/gis/geos/base.py
+END
+linestring.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10494/django/trunk/django/contrib/gis/geos/linestring.py
+END
+collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10494/django/trunk/django/contrib/gis/geos/collections.py
+END
+coordseq.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10131/django/trunk/django/contrib/gis/geos/coordseq.py
+END
+mutable_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10494/django/trunk/django/contrib/gis/geos/mutable_list.py
+END
+libgeos.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10801/django/trunk/django/contrib/gis/geos/libgeos.py
+END
+polygon.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10494/django/trunk/django/contrib/gis/geos/polygon.py
+END

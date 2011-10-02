@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8322/django/trunk/tests/regressiontests/pagination_regress
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8129/django/trunk/tests/regressiontests/pagination_regress/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8130/django/trunk/tests/regressiontests/pagination_regress/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8129/django/trunk/tests/regressiontests/pagination_regress/models.py
+END

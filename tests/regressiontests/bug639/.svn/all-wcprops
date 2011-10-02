@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10406/django/trunk/tests/regressiontests/bug639
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5876/django/trunk/tests/regressiontests/bug639/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10406/django/trunk/tests/regressiontests/bug639/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10406/django/trunk/tests/regressiontests/bug639/models.py
+END
+test.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4609/django/trunk/tests/regressiontests/bug639/test.jpg
+END

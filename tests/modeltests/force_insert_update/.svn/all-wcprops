@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8450/django/trunk/tests/modeltests/force_insert_update
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8267/django/trunk/tests/modeltests/force_insert_update/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8450/django/trunk/tests/modeltests/force_insert_update/models.py
+END

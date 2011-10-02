@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11498/django/trunk/tests/regressiontests/forms
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9365/django/trunk/tests/regressiontests/forms/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5876/django/trunk/tests/regressiontests/forms/__init__.py
+END
+media.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10489/django/trunk/tests/regressiontests/forms/media.py
+END
+error_messages.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11498/django/trunk/tests/regressiontests/forms/error_messages.py
+END
+formsets.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10643/django/trunk/tests/regressiontests/forms/formsets.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9876/django/trunk/tests/regressiontests/forms/tests.py
+END
+extra.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10584/django/trunk/tests/regressiontests/forms/extra.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10729/django/trunk/tests/regressiontests/forms/models.py
+END
+regressions.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9067/django/trunk/tests/regressiontests/forms/regressions.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10660/django/trunk/tests/regressiontests/forms/fields.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10652/django/trunk/tests/regressiontests/forms/forms.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10641/django/trunk/tests/regressiontests/forms/widgets.py
+END

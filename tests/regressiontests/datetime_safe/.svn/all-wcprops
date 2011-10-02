@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7982/django/trunk/tests/regressiontests/datetime_safe
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7950/django/trunk/tests/regressiontests/datetime_safe/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7946/django/trunk/tests/regressiontests/datetime_safe/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7950/django/trunk/tests/regressiontests/datetime_safe/models.py
+END

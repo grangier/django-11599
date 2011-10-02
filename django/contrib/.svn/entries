@@ -1,0 +1,119 @@
+10
+
+dir
+11599
+http://code.djangoproject.com/svn/django/trunk/django/contrib
+http://code.djangoproject.com/svn
+
+
+
+2009-09-21T22:34:45.846400Z
+11587
+lukeplant
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+bcc190cf-cafb-0310-a4f2-bffc1f526a37
+
+humanize
+dir
+
+gis
+dir
+
+redirects
+dir
+
+formtools
+dir
+
+syndication
+dir
+
+comments
+dir
+
+sitemaps
+dir
+
+__init__.py
+file
+
+
+
+
+2011-10-02T03:21:38.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2006-12-30T06:25:49.438024Z
+4265
+adrian
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+sites
+dir
+
+admin
+dir
+
+databrowse
+dir
+
+csrf
+dir
+
+markup
+dir
+
+contenttypes
+dir
+
+auth
+dir
+
+admindocs
+dir
+
+localflavor
+dir
+
+sessions
+dir
+
+flatpages
+dir
+
+webdesign
+dir
+

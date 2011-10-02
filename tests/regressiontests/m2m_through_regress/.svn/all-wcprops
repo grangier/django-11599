@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11215/django/trunk/tests/regressiontests/m2m_through_regress
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8136/django/trunk/tests/regressiontests/m2m_through_regress/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11215/django/trunk/tests/regressiontests/m2m_through_regress/models.py
+END

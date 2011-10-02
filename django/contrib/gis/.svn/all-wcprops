@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11577/django/trunk/django/contrib/gis
+END
+shortcuts.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11527/django/trunk/django/contrib/gis/shortcuts.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8219/django/trunk/django/contrib/gis/__init__.py
+END
+measure.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10801/django/trunk/django/contrib/gis/measure.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10493/django/trunk/django/contrib/gis/models.py
+END
+feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8414/django/trunk/django/contrib/gis/feeds.py
+END

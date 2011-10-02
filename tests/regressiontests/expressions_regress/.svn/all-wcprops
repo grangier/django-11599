@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10184/django/trunk/tests/regressiontests/expressions_regress
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9792/django/trunk/tests/regressiontests/expressions_regress/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9898/django/trunk/tests/regressiontests/expressions_regress/models.py
+END

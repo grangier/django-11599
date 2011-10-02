@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10370/django/trunk/tests/regressiontests/conditional_processing
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10134/django/trunk/tests/regressiontests/conditional_processing/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10114/django/trunk/tests/regressiontests/conditional_processing/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10370/django/trunk/tests/regressiontests/conditional_processing/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10134/django/trunk/tests/regressiontests/conditional_processing/urls.py
+END

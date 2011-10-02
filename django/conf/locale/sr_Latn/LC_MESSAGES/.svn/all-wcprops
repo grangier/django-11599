@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11299/django/trunk/django/conf/locale/sr_Latn/LC_MESSAGES
+END
+django.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11299/django/trunk/django/conf/locale/sr_Latn/LC_MESSAGES/django.po
+END
+djangojs.mo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11299/django/trunk/django/conf/locale/sr_Latn/LC_MESSAGES/djangojs.mo
+END
+django.mo
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11299/django/trunk/django/conf/locale/sr_Latn/LC_MESSAGES/django.mo
+END
+djangojs.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11299/django/trunk/django/conf/locale/sr_Latn/LC_MESSAGES/djangojs.po
+END

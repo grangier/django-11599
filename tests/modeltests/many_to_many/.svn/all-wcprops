@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10226/django/trunk/tests/modeltests/many_to_many
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/many_to_many/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10226/django/trunk/tests/modeltests/many_to_many/models.py
+END

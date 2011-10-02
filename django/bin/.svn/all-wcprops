@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10054/django/trunk/django/bin
+END
+django-admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4265/django/trunk/django/bin/django-admin.py
+END
+daily_cleanup.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10054/django/trunk/django/bin/daily_cleanup.py
+END
+unique-messages.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4265/django/trunk/django/bin/unique-messages.py
+END
+compile-messages.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7844/django/trunk/django/bin/compile-messages.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/django/trunk/django/bin/__init__.py
+END
+make-messages.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7844/django/trunk/django/bin/make-messages.py
+END

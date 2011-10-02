@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8673/django/trunk/tests/modeltests/save_delete_hooks
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/save_delete_hooks/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8673/django/trunk/tests/modeltests/save_delete_hooks/models.py
+END

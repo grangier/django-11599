@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8571/django/trunk/tests/modeltests/m2m_through
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8136/django/trunk/tests/modeltests/m2m_through/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8571/django/trunk/tests/modeltests/m2m_through/models.py
+END

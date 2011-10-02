@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10497/django/trunk/tests/regressiontests/dispatch/tests
+END
+test_saferef.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5876/django/trunk/tests/regressiontests/dispatch/tests/test_saferef.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8223/django/trunk/tests/regressiontests/dispatch/tests/__init__.py
+END
+test_dispatcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10497/django/trunk/tests/regressiontests/dispatch/tests/test_dispatcher.py
+END

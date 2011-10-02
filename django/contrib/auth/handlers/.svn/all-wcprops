@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6305/django/trunk/django/contrib/auth/handlers
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4265/django/trunk/django/contrib/auth/handlers/__init__.py
+END
+modpython.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6305/django/trunk/django/contrib/auth/handlers/modpython.py
+END

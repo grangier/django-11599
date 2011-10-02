@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9519/django/trunk/tests/modeltests/order_with_respect_to
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7477/django/trunk/tests/modeltests/order_with_respect_to/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9519/django/trunk/tests/modeltests/order_with_respect_to/models.py
+END

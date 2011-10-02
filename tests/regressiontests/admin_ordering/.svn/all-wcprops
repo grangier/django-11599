@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7982/django/trunk/tests/regressiontests/admin_ordering
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7967/django/trunk/tests/regressiontests/admin_ordering/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7967/django/trunk/tests/regressiontests/admin_ordering/models.py
+END

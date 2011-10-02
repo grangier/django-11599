@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8984/django/trunk/django/contrib/databrowse
+END
+datastructures.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7061/django/trunk/django/contrib/databrowse/datastructures.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8046/django/trunk/django/contrib/databrowse/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5876/django/trunk/django/contrib/databrowse/__init__.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5876/django/trunk/django/contrib/databrowse/urls.py
+END
+sites.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8547/django/trunk/django/contrib/databrowse/sites.py
+END

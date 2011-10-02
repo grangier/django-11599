@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10801/django/trunk/django/views/generic
+END
+simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9594/django/trunk/django/views/generic/simple.py
+END
+date_based.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10556/django/trunk/django/views/generic/date_based.py
+END
+list_detail.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7869/django/trunk/django/views/generic/list_detail.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7952/django/trunk/django/views/generic/__init__.py
+END
+create_update.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10801/django/trunk/django/views/generic/create_update.py
+END

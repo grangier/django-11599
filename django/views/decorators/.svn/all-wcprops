@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11595/django/trunk/django/views/decorators
+END
+gzip.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4265/django/trunk/django/views/decorators/gzip.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4265/django/trunk/django/views/decorators/__init__.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10370/django/trunk/django/views/decorators/http.py
+END
+vary.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7153/django/trunk/django/views/decorators/vary.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11595/django/trunk/django/views/decorators/cache.py
+END

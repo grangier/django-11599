@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/11595/django/trunk/tests
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10114/django/trunk/tests/urls.py
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10122/django/trunk/tests/runtests.py
+END

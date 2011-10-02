@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11009/django/trunk/django/db/models/fields
+END
+subclassing.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8191/django/trunk/django/db/models/fields/subclassing.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10545/django/trunk/django/db/models/fields/__init__.py
+END
+related.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11009/django/trunk/django/db/models/fields/related.py
+END
+proxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7477/django/trunk/django/db/models/fields/proxy.py
+END
+files.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10858/django/trunk/django/db/models/fields/files.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9544/django/trunk/tests/regressiontests/managers_regress
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8851/django/trunk/tests/regressiontests/managers_regress/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8851/django/trunk/tests/regressiontests/managers_regress/models.py
+END

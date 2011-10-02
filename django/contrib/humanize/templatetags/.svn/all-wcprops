@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7131/django/trunk/django/contrib/humanize/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4265/django/trunk/django/contrib/humanize/templatetags/__init__.py
+END
+humanize.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7131/django/trunk/django/contrib/humanize/templatetags/humanize.py
+END

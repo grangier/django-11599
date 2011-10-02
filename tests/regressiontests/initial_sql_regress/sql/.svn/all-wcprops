@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3821/django/trunk/tests/regressiontests/initial_sql_regress/sql
+END
+simple.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3821/django/trunk/tests/regressiontests/initial_sql_regress/sql/simple.sql
+END

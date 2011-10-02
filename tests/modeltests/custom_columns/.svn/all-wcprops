@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8326/django/trunk/tests/modeltests/custom_columns
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5876/django/trunk/tests/modeltests/custom_columns/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8326/django/trunk/tests/modeltests/custom_columns/models.py
+END
